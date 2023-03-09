@@ -10,5 +10,5 @@ age = 2023 - year
 
 
 # DISPLAY RESULTS
-# print(name, age, sep='-')
+# print(name, age)
 print(f"Hi, {name}! You are {age} years old.")
